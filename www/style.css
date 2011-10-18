@@ -1,0 +1,163 @@
+####taken from http://1337day.com/
+BODY {
+    background-color: #000000;
+    background-image: url("dot.gif");
+    color: #008000;
+    font-family: Verdana;
+    font-size: 10px;
+}
+INPUT {
+    background: none repeat scroll 0 0 #004000;
+    border-color: #008000;
+    border-width: 1px;
+    color: #00FF00;
+    font-family: Verdana;
+    font-size: 10px;
+    font-weight: bold;
+}
+IMG {
+    border: 0 none;
+}
+P {
+    margin: 0;
+    text-align: center;
+}
+P STRONG {
+    line-height: 14px;
+}
+A {
+    color: #00C000;
+    font-size: 10px;
+    text-decoration: none;
+}
+A:hover {
+    color: #00FF00;
+}
+.MainDiv {
+    min-width: 800px;
+    width: 100%;
+}
+.NavigationDiv {
+    font-weight: bold;
+    line-height: 18px;
+    text-align: center;
+    width: 100%;
+}
+.CenterDiv {
+    background-color: #000000;
+    border: 1px solid #008000;
+    margin: 0 auto;
+    padding: 5px;
+    width: 760px;
+}
+.LogoPre {
+    color: #00FF00;
+    font-size: 11px;
+    text-align: center;
+}
+.RedText {
+    color: #F87431;
+}
+.YellowText {
+    color: #D6EF39;
+}
+.SmallYellowText {
+    color: #D6EF39;
+    font-size: 9px;
+}
+.PaginationP {
+    font-size: 9px;
+    margin-bottom: 10px;
+}
+.PaginationP A {
+    font-size: 9px;
+    font-weight: bold;
+}
+.FooterP {
+    font-family: Courier New;
+    font-size: 10px;
+}
+.ExploitTable {
+    font-size: 9px;
+    font-weight: bold;
+    margin: 0 auto 10px;
+}
+.ExploitTable TD {
+    background: none repeat scroll 0 0 #004000;
+}
+.ExploitTable A {
+    font-size: 9px;
+}
+.TableHeader TD {
+    background: none repeat scroll 0 0 #000000;
+}
+.TableHeader > TD {
+    width: 62px;
+}
+.TableHeader > TD + TD {
+    width: 380px;
+}
+.TableHeader > TD + TD + TD {
+    width: 64px;
+}
+.TableHeader > TD + TD + TD + TD {
+    width: 40px;
+}
+.TableHeader > TD + TD + TD + TD + TD {
+    width: 9px;
+}
+.TableHeader > TD + TD + TD + TD + TD + TD {
+    width: 9px;
+}
+.TableHeader > TD + TD + TD + TD + TD + TD + TD {
+    width: 9px;
+}
+.TableHeader > TD + TD + TD + TD + TD + TD + TD + TD {
+    width: 9px;
+}
+.TableHeader > TD + TD + TD + TD + TD + TD + TD + TD + TD {
+    width: 135px;
+}
+.AuthorTableHeader TD {
+    background: none repeat scroll 0 0 #000000;
+}
+.AuthorTableHeader > TD {
+    width: 30px;
+}
+.AuthorTableHeader > TD + TD {
+    width: 150px;
+}
+.AuthorTableHeader > TD + TD + TD {
+    width: 320px;
+}
+.AuthorTableHeader > TD + TD + TD + TD {
+    width: 237px;
+}
+.AuthorTable {
+    margin: 20px 5px;
+}
+.AuthorTable TD {
+    font-size: 9px;
+    font-weight: bold;
+    padding: 0;
+}
+.AuthorTable TD + TD {
+    font-size: 10px;
+    font-weight: normal;
+    padding-left: 5px;
+}
+.SearchP {
+    margin: 25px;
+}
+.SearchText {
+    font-size: 13px;
+    font-weight: bold;
+}
+.PagesTextDiv {
+    font-size: 9px;
+    line-height: 16px;
+    margin: 10px;
+}
+.FootLink, .FootLink A {
+    font-size: 8px;
+}

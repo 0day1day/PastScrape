@@ -1,0 +1,27 @@
+PastScraper is a simple web spider that can scrape the links of pastebin and search for interesting stuff(likes password or shell). It has a web interface for 
+viewing the scraping results 
+
+The spider is written in python and the main site(very very simple site) in PHP (> 4.0)
+
+The spider is taken and adapted from http://snipplr.com/view/54574/pastebin-parser/
+
+Requirements:
+-python 2.7 or higher
+-a server web 
+-PHP interpreter 4 or higher
+-MySql 
+
+You need MySqlDB installed for running it. You can download it from http://sourceforge.net/projects/mysql-python/
+
+The site css is taken from http://1337day.com/
+
+---------------------------------------------------------------
+
+PastScraper/:
+	/spider/ => contains the pastebin crawler for retrieving and collecting the pastebin'links
+	/database/ => contains the database sql script(use it for install the dbms backend for the site and the crawler)
+	/www/ => contains the main website for PasteScraper
+
+---------------------------------------------------------------
+
+If you found any bug please email me at blackstorm010@gmail.com
